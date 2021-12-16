@@ -91,7 +91,6 @@ namespace Aufnahmepruefung
         /// <param name="a">Erste Zahl</param>
         /// <param name="b">Zweite Zahl</param>
         /// <returns>void</returns>
-
         private static void Swap(ref int a, ref int b)
         {
             int z = a;
