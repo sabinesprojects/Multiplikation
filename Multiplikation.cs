@@ -3,7 +3,7 @@
 namespace Aufnahmepruefung
 {
     /// <summary>
-    /// Russischen Bauernmultiplikation in drei Varianten
+    /// Russische Bauernmultiplikation in drei Varianten
     /// </summary>
     public class Multiplikation
     {
