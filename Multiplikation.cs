@@ -25,7 +25,7 @@ namespace Aufnahmepruefung
 
 
         /// <summary>
-        /// Dieser Algorithmus multipliziert zwei Zahlen anhand der Russischen Bauernmultiplikation
+        /// Dieser Algorithmus multipliziert zwei Zahlen anhand der Russischen Bauernmultiplikation.
         /// Kurze und schnelle Variante
         /// </summary>
         /// <param name="x">Erster Faktor</param>
@@ -47,7 +47,7 @@ namespace Aufnahmepruefung
 
 
         /// <summary>
-        /// Dieser Algorithmus multipliziert zwei Zahlen anhand der Russischen Bauernmultiplikation
+        /// Dieser Algorithmus multipliziert zwei Zahlen anhand der Russischen Bauernmultiplikation.
         /// Leicht lesbare Variante
         /// Die Zahlen werden ggf. getauscht, um die Zahl der Schritte zu minimieren
         /// </summary>
@@ -101,7 +101,7 @@ namespace Aufnahmepruefung
 
 
         /// <summary>
-        /// Dieser Algorithmus multipliziert zwei Zahlen anhand der Russischen Bauernmultiplikation
+        /// Dieser Algorithmus multipliziert zwei Zahlen anhand der Russischen Bauernmultiplikation.
         /// Rekursive Variante (bringt keinen Vorteil; nur der Gaudi halber)
         /// </summary>
         /// <param name="x">Erster Faktor</param>
